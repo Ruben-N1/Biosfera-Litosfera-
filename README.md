@@ -28,3 +28,4 @@ Aprender a utilizar correctamente el sensor de humedad de suelo, circuitos en pr
 Con este proyecto logré armar un sistema de riego automático con Arduino que mide la humedad del suelo y activa el riego y un LED de aviso cuando la tierra está seca. Aprendí a usar el sensor de humedad, a armar circuitos en protoboard y a programar la lógica en Arduino. También comprobé lo importante que es mantener un nivel de humedad adecuado para conservar las plantas y los cultivos, y cómo la tecnología puede ayudar a cuidar el agua evitando el riego en exceso o por falta
 
 ## Resultados
+📄 [Reporte técnico (PDF)](Resultados/Reporte_Tecnico_IEEE_Biosfera_Litosfera.pdf)
